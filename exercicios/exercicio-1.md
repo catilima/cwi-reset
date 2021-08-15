@@ -15,18 +15,18 @@ Senão
 Caminhar até a cozinha
 
 Se tiver café Então 
-	Tomar café
+  Tomar café
   
 Senão
  colocar café para passar
  
 Enquanto estiver com fome
- 	 tomar café
+  tomar café
    
 Caminhar até o banheiro
 
 Se a porta estiver fechada Então
- 	Abrir a porta
+  Abrir a porta
   
 Entrar no banheiro
 Escovar os dentes
