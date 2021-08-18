@@ -6,4 +6,5 @@ let item5 = 50
 
 let media = (item1 + item2 + item3 + item4 + item5 )/5
 
-console.log (soma);
+console.log (media);
+
