@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ConsoleAppArg.iml" filepath="$PROJECT_DIR$/ConsoleAppArg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlunoResetComParametro.java.iml" filepath="$PROJECT_DIR$/AlunoResetComParametro.java.iml" />
     </modules>
   </component>
 </project>
