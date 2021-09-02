@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AlunoResetLeituraTeclado.iml" filepath="$PROJECT_DIR$/AlunoResetLeituraTeclado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Reset/Reset.iml" filepath="$PROJECT_DIR$/../../../Reset/Reset.iml" />
     </modules>
   </component>
 </project>
